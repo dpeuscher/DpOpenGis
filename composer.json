@@ -1,8 +1,8 @@
 {
-    "name": "dpeuscher/DpOpenGis",
+    "name": "dpeuscher/dp-open-gis",
     "description": "Implementation of OpenGIS model in PHP",
+    "license": "GPL-2.0",
     "require": {
-        "license": "GPL-2.0",
         "php": ">=5.4",
         "zendframework/zendframework": "2.3.x-dev",
         "doctrine/doctrine-module": "0.9.x-dev",
