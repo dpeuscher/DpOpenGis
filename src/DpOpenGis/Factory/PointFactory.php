@@ -1,10 +1,7 @@
 <?php
 /**
- * Created by JetBrains PhpStorm.
  * User: dpeuscher
  * Date: 02.04.13
- * Time: 15:20
- * To change this template use File | Settings | File Templates.
  */
 
 namespace DpOpenGis\Factory;

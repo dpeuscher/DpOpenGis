@@ -6,7 +6,6 @@ use DpOpenGis\Collection\PointCollection;
 use DpOpenGis\Factory\LineStringFactory;
 use DpOpenGis\Factory\PointFactory;
 use DpOpenGis\Factory\PolygonFactory;
-use DpOpenGis\Model\Point;
 use DpOpenGis\Model\Polygon;
 use DpOpenGis\Collection\PointCollection as Points;
 use DpOpenGis\Collection\LineStringCollection as LineStrings;

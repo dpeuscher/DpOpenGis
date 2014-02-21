@@ -6,7 +6,6 @@ use Doctrine\DBAL\Types\Type;
 use Doctrine\ORM\EntityManager;
 use Doctrine\ORM\Tools\Setup;
 use DpOpenGis\Factory\PointFactory;
-use DpOpenGis\MappingType\PointType;
 use Zend\ServiceManager\Config;
 use Zend\ServiceManager\ServiceLocatorInterface;
 use Zend\ServiceManager\ServiceManager;

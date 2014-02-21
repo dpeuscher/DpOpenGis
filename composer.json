@@ -1,0 +1,22 @@
+{
+    "name": "dpeuscher/DpOpenGis",
+    "description": "Implementation of OpenGIS model in PHP",
+    "require": {
+        "license": "GPL-2.0",
+        "php": ">=5.4",
+        "zendframework/zendframework": "2.3.x-dev",
+        "doctrine/doctrine-module": "0.9.x-dev",
+        "doctrine/doctrine-orm-module": "0.9.x-dev",
+        "phpunit/phpunit": "3.7.*",
+        "phpunit/php-file-iterator": "1.3.*",
+        "phpunit/php-text-template": "1.2.*",
+        "phpunit/php-code-coverage": "1.2.*",
+        "phpunit/php-timer": "1.0.*",
+        "phpunit/phpunit-mock-objects": "1.2.*",
+        "sebastian/diff": "dev-master",
+        "sebastian/exporter": "dev-master",
+        "dpeuscher/dp-zf-extensions": "dev-master",
+        "dpeuscher/dp-doctrine-extensions": "dev-master",
+        "dpeuscher/dp-phpunit-extensions": "dev-master"
+    }
+}

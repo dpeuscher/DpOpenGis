@@ -1,15 +1,11 @@
 <?php
 /**
- * Created by JetBrains PhpStorm.
  * User: dpeuscher
  * Date: 03.04.13
- * Time: 18:00
- * To change this template use File | Settings | File Templates.
  */
 
 namespace DpOpenGis\MappingType;
 
-use DpOpenGis\Factory\PointFactory;
 use DpOpenGis\Model\Point;
 use DpZFExtensions\Cache\ICacheAware;
 use DpZFExtensions\Cache\TCacheAware;

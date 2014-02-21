@@ -1,10 +1,7 @@
 <?php
 /**
- * Created by JetBrains PhpStorm.
  * User: dpeuscher
  * Date: 02.04.13
- * Time: 14:48
- * To change this template use File | Settings | File Templates.
  */
 
 namespace DpOpenGis\Model;
@@ -16,7 +13,6 @@ use DpOpenGis\Collection\PointCollection;
 use DpOpenGis\Exception\NotOptimizedException;
 use DpOpenGis\Exception\WrongDirectionException;
 use DpOpenGis\Factory\MultiPolygonFactory;
-use DpOpenGis\Model\Point;
 use DpZFExtensions\ServiceManager\TServiceLocator;
 use DpZFExtensions\Validator\AbstractValueObject;
 use DpZFExtensions\Validator\IExchangeState;

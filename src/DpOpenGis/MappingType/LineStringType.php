@@ -1,22 +1,16 @@
 <?php
 /**
- * Created by JetBrains PhpStorm.
  * User: dpeuscher
  * Date: 03.04.13
- * Time: 18:00
- * To change this template use File | Settings | File Templates.
  */
 
 namespace DpOpenGis\MappingType;
 
-use DpOpenGis\Factory\LineStringFactory;
-use DpOpenGis\Factory\PointFactory;
 use DpOpenGis\Model\LineString;
 use DpOpenGis\Model\Point;
 use DpZFExtensions\Cache\ICacheAware;
 use DpZFExtensions\Cache\TCacheAware;
 use DpZFExtensions\ServiceManager\TServiceLocator;
-use Doctrine\Common\Collections\Collection;
 use Doctrine\DBAL\Types\Type;
 use Doctrine\DBAL\Platforms\AbstractPlatform;
 use DpOpenGis\ModelInterface\IPointCollection;

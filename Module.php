@@ -1,12 +1,4 @@
 <?php
-/**
- * Zend Framework (http://framework.zend.com/)
- *
- * @link      http://github.com/zendframework/ZendSkeletonApplication for the canonical source repository
- * @copyright Copyright (c) 2005-2012 Zend Technologies USA Inc. (http://www.zend.com)
- * @license   http://framework.zend.com/license/new-bsd New BSD License
- */
-
 namespace DpOpenGis;
 
 use Doctrine\DBAL\Types\Type;
@@ -15,12 +7,9 @@ use DpOpenGis\Factory\LineStringFactory;
 use DpOpenGis\Factory\MultiPolygonFactory;
 use DpOpenGis\Factory\PointFactory;
 use DpOpenGis\Factory\PolygonFactory;
-use DpOpenGis\MappingType\LineStringType;
-use Zend\ModuleManager\ModuleManager;
 use Zend\Mvc\MvcEvent;
 use Zend\ServiceManager\ServiceLocatorAwareInterface;
 use Zend\ServiceManager\ServiceLocatorInterface;
-use Zend\ServiceManager\ServiceManager;
 
 /**
  * Class Module

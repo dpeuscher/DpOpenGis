@@ -7,7 +7,6 @@ use Doctrine\ORM\EntityManager;
 use Doctrine\ORM\Tools\Setup;
 use DpOpenGis\Collection\PointCollection;
 use DpOpenGis\Factory\PointFactory;
-use DpOpenGis\MappingType\PointType;
 use DpOpenGis\Factory\LineStringFactory;
 use DpOpenGis\MappingType\LineStringType;
 use DpOpenGis\Model\LineString;

@@ -9,14 +9,12 @@ use DpOpenGis\Collection\LineStringCollection;
 use DpOpenGis\Collection\PointCollection;
 use DpOpenGis\Factory\PointFactory;
 use DpOpenGis\Factory\PolygonFactory;
-use DpOpenGis\MappingType\PointType;
 use DpOpenGis\Factory\LineStringFactory;
 use DpOpenGis\MappingType\LineStringType;
 use DpOpenGis\MappingType\PolygonType;
 use DpOpenGis\Model\LineString;
 use DpOpenGis\Model\Point;
 use DpOpenGis\Model\Polygon;
-use DpOpenGis\ModelInterface\ILineStringCollection;
 use Zend\ServiceManager\Config;
 use Zend\ServiceManager\ServiceManager;
 
