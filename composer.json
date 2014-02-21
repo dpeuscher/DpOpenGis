@@ -1,5 +1,5 @@
 {
-    "name": "dpeuscher/DpOpenGis",
+    "name": "dpeuscher/dp-open-gis",
     "description": "Implementation of OpenGIS model in PHP",
     "require": {
         "license": "GPL-2.0",
